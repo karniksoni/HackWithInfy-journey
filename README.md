@@ -1,5 +1,3 @@
-# HackWithInfy-journey
-In this repository , I mentioned my HackWithInfy journey "How i prepared myself for this competitive exam", "what mistake I did that you don't have to do ".
 
 
 # HackWithInfy Preparation & Interview Journey 🚀
